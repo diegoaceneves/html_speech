@@ -1,19 +1,22 @@
 ### Um bom bate-papo sobre Cerveja
 ####  Diego Neves
 #####  diego@diegoneves.eti.br:
+![brinde](img/um-bom-batepapo-sobre-cerveja/brinde.png)
 
 ---
 ###  Sumário
-1. História
-2. Etimologia
+1. ~$ whoami 
+2. História
 3. Ingredientes
 4. Preparação
 5. Estilos de cervejas
 6. Classificação das cervejas
 7. Copos de cerveja
 8. Problemas e benefícios para a saúde e para a sociedade
-9. Mercado publicitário
-10. Química da Cerveja
+9. Química da Cerveja
+
+---
+### ~$ whoami
 
 ---
 ###  História
