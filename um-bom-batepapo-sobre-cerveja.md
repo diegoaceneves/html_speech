@@ -108,5 +108,28 @@ Diferente do que se imagina, a água não é a mesma em todos os lugares do mund
 ---
 #### Copos de Cerveja
 
+--
+![Flauta](img/um-bom-batepapo-sobre-cerveja/Copo_Flauta_1.png)
+
+--
+![Calice](img/um-bom-batepapo-sobre-cerveja/Copo_Calice_1.png)
+
+--
+![Tulipa](img/um-bom-batepapo-sobre-cerveja/Copo_Tulipa_1.png)
+
+--
+![Pint Tumbler](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_1.png)
+![Pint Imperial](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_2.png)
+![Pint Guinness](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_3.png)
+
+--
+![Pilsener](img/um-bom-batepapo-sobre-cerveja/Copo_Pilsener_1.png)
+
+--
+![Caneco](img/um-bom-batepapo-sobre-cerveja/Copo_Caneco_1.png)
+
+--
+![Weisen](img/um-bom-batepapo-sobre-cerveja/Copo_Weisen_1.png)
+
 ---
 #### Armonizações
