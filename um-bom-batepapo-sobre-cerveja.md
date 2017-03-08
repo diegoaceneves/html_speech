@@ -107,29 +107,48 @@ Diferente do que se imagina, a água não é a mesma em todos os lugares do mund
 
 ---
 #### Copos de Cerveja
+Assim como nos vinhos, cada tipo de cerveja tem um tipo de copo especifico para seu consumo, isso porque, assim que a cerveja entra em contato com o ambiente, todas as propriedades, cor, sabor e aromas são alterados e cabe ao copo, a função de manter as caracteristicas de cada tipo. Alguns copos por exemplo, tem um formato que propicia uma maior formação e retenção da espuma, que funciona como uma barreira para evitar que o aroma evapore, alem de auxiliar na conservação da temperatura.
 
 --
+Ideais para cervejas do tipo Faro, Lambic, Gueuze e as champegnoises, o formato esguio faz com que o creme demore mais para se dissipar, prolongando as qualidades da cerveja.
+
 ![Flauta](img/um-bom-batepapo-sobre-cerveja/Copo_Flauta_1.png)
 
 --
+Projetado para mater a espuma, é utilizado por cervejas da escola belga. como as Dubbel, Tripel e Quadrupel, podem conter ranhuras na parte inferior para manter a produção de espuma constante, além de boca larga para os goles mais profundos.
+
 ![Calice](img/um-bom-batepapo-sobre-cerveja/Copo_Calice_1.png)
 
 --
+Ideal para certejas com espuma mais cremosa, como as Strong Ales, aumenta e captura os compostos voláteis, induzindo grandes colarinhos. muito utilizado para cervejas mais aromaticas.
+
 ![Tulipa](img/um-bom-batepapo-sobre-cerveja/Copo_Tulipa_1.png)
 
 --
+Geralmente cilindricos, ou com pouca inclinação, costumam ter um tamanho padrão (16Oz e 20Oz) são muito utilizados para cervejas dos tipos Bitter e Stout
+
 ![Pint Tumbler](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_1.png)
 ![Pint Imperial](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_2.png)
 ![Pint Guinness](img/um-bom-batepapo-sobre-cerveja/Copo_Pint_3.png)
 
 --
+Um dos copos mais comuns no universo Cervejeiro, capiturando a efervescência e as cores de uma Pilsen. mantem a espuma e melhora a percepção dos compostos volateis. É adecuado para os tipos mais consumidos de cerveja, como as Viena Larger, American Lager e Pilsner.
+
 ![Pilsener](img/um-bom-batepapo-sobre-cerveja/Copo_Pilsener_1.png)
 
 --
+Popularizado graças as festas cervejeiras na Alemanha, possue vários tamanhos e no geral, comportam uma grande quantidade de cerveja, são utilizados para diversos tipos diferentes, como as Amber ales, Bock, Pilsener, Munich, OktoberFest, etc.
+
 ![Caneco](img/um-bom-batepapo-sobre-cerveja/Copo_Caneco_1.png)
 
 --
+Produzido para armazenar o conteudo completo da garrafa, incluindo a espuma, além de reter os aromas, é utilizado para os estilos varios estilos de Weissbier, como as Dunkelweizen, Hefeweizen, Kristalweizen, Weizenbock.
+
 ![Weisen](img/um-bom-batepapo-sobre-cerveja/Copo_Weisen_1.png)
 
 ---
 #### Armonizações
+
+---
+#### Agradecimentos
+
