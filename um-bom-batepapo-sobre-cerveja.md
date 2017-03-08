@@ -17,7 +17,12 @@
 
 ---
 ### ~$ whoami
-
+* Consultor de Tecnologia,
+* Especialista em Redes de Computadores,
+* Bacharel em Sistemas de Informação,
+* Trabalho com Software Livre desde 2006,
+* Membro do time de tradução do Debian para pt_BR,
+* Amante de um bom Rock n’ Roll e boas cervejas.
 ---
 ###  História
 ####  Cerveja
